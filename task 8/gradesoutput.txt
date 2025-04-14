@@ -1,0 +1,30 @@
+Peter
+55
+66
+44
+67
+Peter has an average score of 58
+Lilly
+100
+90
+43
+89
+Lilly has an average score of 138.5
+John
+34
+56
+78
+65
+John has an average score of 196.75
+Mary
+45
+56
+78
+90
+Mary has an average score of 264
+Alex
+30
+45
+65
+54
+Alex has an average score of 312.5
